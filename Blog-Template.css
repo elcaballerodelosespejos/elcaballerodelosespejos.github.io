@@ -149,4 +149,14 @@
   .u-section-1 .u-image-3 {
     height: 278px;
   }
+}@font-face {
+  font-family: 'titulos';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/titulos.otf);
+}@font-face {
+  font-family: 'parrafos';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/parrafos.otf);
 }
